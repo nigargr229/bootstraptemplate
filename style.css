@@ -1,0 +1,9 @@
+body{
+    background: url('cover1.jpg') no-repeat; 
+    background-size:cover; 
+    background-size:contain;
+
+}
+a:hover{
+    color:orange
+}
